@@ -1,0 +1,84 @@
+{
+  "challange": [
+    {
+      "id": 1,
+      "category": "cardio",
+      "quest": "Run 1 KM (0.6 Miles) without stopping"
+    },
+    {
+      "id": 2,
+      "category": "cardio",
+      "quest": "Do 50 high knees in 30 seconds"
+    },
+    {
+      "id": 3,
+      "category": "cardio",
+      "quest": "Run on treadmill with speed 12 for 30 minutes"
+    },
+    {
+      "id": 4,
+      "category": "cardio",
+      "quest": "Jump rope for 5 minutes straight"
+    },
+    {
+      "id": 5,
+      "category": "cardio",
+      "quest": "??"
+    },
+    {
+      "id": 6,
+      "category": "strength",
+      "quest": "Wall hang for 1 minutes"
+    },
+    {
+      "id": 7,
+      "category": "strength",
+      "quest": "Hold plank for 3 minutes"
+    },
+    {
+      "id": 8,
+      "category": "strength",
+      "quest": "Do 10 pull-ups (or assited pull-ups)"
+    },
+    {
+      "id": 9,
+      "category": "strength",
+      "quest": "Perform sit wall with weight for 2 minutes"
+    },
+    {
+      "id": 10,
+      "category": "strength",
+      "quest": "Perform 1 set of bulgarian split"
+    },
+    {
+      "id": 11,
+      "category": "flexibility",
+      "quest": "Perform a cobra pose for 1 minute"
+    },
+    {
+      "id": 12,
+      "category": "flexibility",
+      "quest": "Stretch and touch your toes for 1 minutes"
+    },
+    {
+      "id": 13,
+      "category": "core",
+      "quest": "Do 20 crunches"
+    },
+    {
+      "id": 14,
+      "category": "core",
+      "quest": "Perform 20 bicycle crunches"
+    },
+    {
+      "id": 15,
+      "category": "core",
+      "quest": "Do 30 russian twist"
+    },
+    {
+      "id": 16,
+      "category": "core",
+      "quest": "Complete 15 leg raises without resting"
+    }
+  ]
+}
